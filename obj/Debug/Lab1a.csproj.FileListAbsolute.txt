@@ -1,0 +1,6 @@
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\bin\Debug\Lab1a.exe
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\bin\Debug\Lab1a.pdb
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\obj\Debug\Lab1a.csproj.AssemblyReference.cache
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\obj\Debug\Lab1a.csproj.CoreCompileInputs.cache
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\obj\Debug\Lab1a.exe
+D:\Универ\Семестр 4\КПО\Lab1a\kpo-aleturovich-boyko-lab1a\obj\Debug\Lab1a.pdb
